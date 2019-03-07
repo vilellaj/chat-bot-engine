@@ -1,0 +1,19 @@
+[
+    {
+        "context": "beneficiario",
+        "text": "Para demitir um titular você deve fazer y",
+        "tags": [
+            "demitir",
+            "titular"
+        ]
+    },
+    {
+        "context": "beneficiario",
+        "text": "Esta com problemas no dependente y",
+        "tags": [
+            "problema",
+            "problemas",
+            "dependente"
+        ]
+    }
+]

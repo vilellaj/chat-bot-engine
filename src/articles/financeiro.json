@@ -1,0 +1,18 @@
+[
+    {
+        "context": "financeiro",
+        "text": "Para cancelar uma fatura você deve fazer x",
+        "tags": [
+            "cancelar",
+            "fatura"
+        ]
+    },
+    {
+        "context": "financeiro",
+        "text": "Para gerar uma fatura você deve fazer x",
+        "tags": [
+            "gerar",
+            "fatura"
+        ]
+    }
+]

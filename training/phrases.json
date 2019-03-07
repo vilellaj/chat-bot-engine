@@ -1,0 +1,46 @@
+[
+    {
+        "text": "preciso cancelar uma conta",
+        "tag": "financeiro"
+    },
+    {
+        "text": "preciso reabrir um caixa",
+        "tag": "financeiro"
+    },
+    {
+        "text": "preciso arrumar uma fatura",
+        "tag": "financeiro"
+    },
+    {
+        "text": "o valor da adesao está errado",
+        "tag": "beneficiario"
+    },
+    {
+        "text": "o dependente esta com problema",
+        "tag": "beneficiario"
+    },
+    {
+        "text": "o titular precisa ser demitido",
+        "tag": "beneficiario"
+    },
+    {
+        "text": "preciso gerar um relatorio contabil",
+        "tag": "contabil"
+    },
+    {
+        "text": "nao estou conseguindo fazer o relatorio da contabilidade",
+        "tag": "contabil"
+    },
+    {
+        "text": "como faz para emitir o contabil",
+        "tag": "contabil"
+    },
+    {
+        "text": "Como fazer aprovacao via ufast",
+        "tag": "aprovacao"
+    },
+    {
+        "text": "Preciso cancelar aprovacao",
+        "tag": "aprovacao"
+    }
+]

@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Socket.IO chat</title>
+    <link rel="stylesheet" href="./css/style.css" />
+</head>
+
+<body>
+    <div id="live-chat">
+        <header class="clearfix">
+            <a href="#" class="chat-close">x</a>
+            <h4>Fiot</h4>
+            <span class="chat-message-counter">3</span>
+        </header>
+        <div class="chat">
+            <div id="chat-history" class="chat-history"></div>
+            <p class="chat-feedback" id="chat-feedback"></p>
+            <form id="form" autocomplete="off">
+                <fieldset>
+                    <input type="text" id="message" placeholder="Type your message…" autofocus>
+                    <input type="hidden">
+                </fieldset>
+            </form>
+        </div>
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
